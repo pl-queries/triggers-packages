@@ -287,3 +287,4 @@ INSERT INTO students (student_id, first_name, last_name, marks) VALUES (99999, '
 - [ ] (Optional) Add automated tests / CI for the SQL file
 
 ---
+## Chela's comment: There's the first commit that says it was two days ago, you can say that it was caused by the fact that we put the machine on which we performed tests  on Saturday and the other commit happened when we had put it back on time
