@@ -288,8 +288,6 @@ INSERT INTO students (student_id, first_name, last_name, marks) VALUES (99999, '
 
 ---
 
-
 ## Ghislaine's comment: In these exercises, I struggled mainly with understanding how triggers enforce time based restrictions and how logging unauthorized actions works. However, I learned how to create triggers that block operations outside allowed hours and how to record violations for auditing. I also gained confidence in using PL/SQL packages, functions, and dynamic procedures in real system scenarios.
 
 ## Chela's comment: There's the first commit that says it was two days ago, you can say that it was caused by the fact that we put the machine on which we performed tests  on Saturday and the other commit happened when we had put it back on time
-
